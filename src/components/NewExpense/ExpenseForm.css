@@ -1,0 +1,41 @@
+.new-expense__controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    
+  }
+  
+  .new-expense__control label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  }
+  
+  .new-expense__control input {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+    
+  }
+  
+  .new-expense__actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+  }
+
+  @media screen and (max-width: 743px) {
+    .new-expense__actions {
+      justify-content: center;
+    }
+
+    .new-expense__controls {
+      justify-content: center;
+    }
+  }
+
