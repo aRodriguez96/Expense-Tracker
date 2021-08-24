@@ -1,5 +1,5 @@
 # Expense-Tracker
-<img src="Images/homescreen.png" width="100">
+<img src="Images/homescreen.png" width="1000">
 
 
 
