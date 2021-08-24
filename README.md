@@ -6,14 +6,20 @@ filter to show only expenses of a given year or all of your expenses.
 Made with react.
 
 This is the app's homescreen on a regular pc.
+
 <img src="Images/homescreen.png" width="750">
+
+
 
 To add a new expense.
 
 <img src="Images/new expense.png" width="750">
 
+
+
 On mobile.
-<img src="Images/mobile.png">
+
+<img src="Images/mobile.jpg">
 
 
 
