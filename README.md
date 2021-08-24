@@ -19,7 +19,7 @@ To add a new expense.
 
 On mobile.
 
-<img src="Images/mobile.JPG">
+<img src="Images/mobile screen.JPG">
 
 
 
